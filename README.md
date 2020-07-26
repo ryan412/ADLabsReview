@@ -280,7 +280,7 @@ The exam was rough, and it was 48 hours that INCLUDES the report time. I can't t
 If you are planning to do something more beginner friendly from Pentester Academy feel free to try CRTP. I've heard good things about it.
 
 
-# Red Team Ops & Red Team Ops I Certificate:
+# Red Team Ops & Certified Red Team Operator:
 
 **SOON**
 
