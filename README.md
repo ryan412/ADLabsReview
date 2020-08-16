@@ -5,6 +5,7 @@ If you know me, you probably know that I've taken a bunch of Active Directory At
 
 # Whoami
 I graduated from an elite university (Johns Hopkins University) with a master’s degree in Cybersecurity. I have a strong background in a lot of domains in cybersecurity, but I'm mainly focused in penetration testing and red teaming. I am currently a senior penetration testing and vulnerability assessment consultant at one of the biggest cybersecurity consultancy companies in Saudi Arabia where we offer consultancy to numerous clients between the public and private sector. I hold a number of penetration testing certificates such as:
+* OSCE
 * OSCP
 * CRTE
 * GPEN
