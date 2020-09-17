@@ -283,7 +283,30 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 # Red Team Ops & Certified Red Team Operator:
 
-**SOON**
+**WILL UPDATE THIS SOON**
+
+**Price:** It ranges from £399-£649 depending on the lab duration. In my opinion, one month is enough but to be safe you can take 2. The content is updated regularly so you may miss new things to try ;)
+
+**Ease of use:** Easy. You get an .ovpn file and you connect to it in the labs & in the exam. 
+
+**Ease of reset:** You can reboot any 1 machine once every hour & you need 6 votes for a revert of the entire lab. I don't think you have an option for a reboot/revert in the exam.
+
+**Ease of support:** As with RastaLabs, RastaMouse is actually very active and if you need help, he'll guide you without spoiling anything. Other than that, community support is available too through Slack!
+
+**Course:** Yes! HTML & Videos. The reason is, the course gets updated regularly & you have LIFE TIME ACCESS to all the updates (Awesome!)
+
+**Goal:** finish the lab & take the exam to become CRTO OR use the external route to take the exam without the course if you have OSCP (not recommended).
+
+**Certificate:** You get a badge once you pass the exam & multiple badges during complention of the course
+
+**Exam:** Yes. 48 hours practical exam without a report. Note that if you fail, you'll have to pay for a retake exam voucher (£99)
+
+**Difficulty:** ?
+
+**Release Date:** January 2020
+
+**Retired:** Nope
+
 
 
 As a final note, I'm actually planning to take more AD/Red Teaming labs in the future, so I'll keep updating this page once I finish a certain lab/exam/course.
