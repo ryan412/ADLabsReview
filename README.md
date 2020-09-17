@@ -289,7 +289,7 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 **Ease of use:** Easy. You get an .ovpn file and you connect to it in the labs & in the exam. 
 
-**Ease of reset:** You can reboot any 1 machine once every hour & you need 6 votes for a revert of the entire lab. I don't think you have an option for a reboot/revert in the exam.
+**Ease of reset:** You can reboot any 1 machine once every hour & you need 6 votes for a revert of the entire lab. In the exam, you are entitled to only 1 reboot in the 48 hours & you don't have any option to revert!
 
 **Ease of support:** As with RastaLabs, RastaMouse is actually very active and if you need help, he'll guide you without spoiling anything. Other than that, community support is available too through Slack!
 
