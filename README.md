@@ -249,7 +249,7 @@ Unfortunately, not having a decent Active Directory lab made this a very bad dea
 
 # Windows Red Team Lab & Certified Red Team Expert Certificate:
 
-Now that I'm done talking about the eLS AD course, let's start talking about Pentester Academy's. Pentestar Academy in general has 3 AD courses/exams. CRTP, CRTE, and finally PACES. The first one is beginner friendly and I chose not to take it since I wanted something a bit harder. The last one has a lab with 7 forests so you can image how hard it will be LOL. As such, I've decided to take the one in the middle, CRTE. I took the course and cleared the exam in June 2020, so this was my most recent AD lab/exam.
+Now that I'm done talking about the eLS AD course, let's start talking about Pentester Academy's. Pentestar Academy in general has 3 AD courses/exams. CRTP, CRTE, and finally PACES. The first one is beginner friendly and I chose not to take it since I wanted something a bit harder. The last one has a lab with 7 forests so you can image how hard it will be LOL. As such, I've decided to take the one in the middle, CRTE. I took the course and cleared the exam in June 2020.
 
 **Price:** It ranges from $600-$1500 depending on the lab duration. However, they ALWAYS have discounts! For example, currently the prices range from $299-$699 (which is worth it every penny)! You can read more about the different options from the URL: https://www.pentesteracademy.com/redteamlab
 
@@ -283,13 +283,13 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 # Red Team Ops & Certified Red Team Operator:
 
-**WILL UPDATE THIS SOON**
+After CRTE, I've decided to try CRTO since this is one gets sold our VERY quickly, I had to try it out to understad why. To sum up, this is one of the best AD courses I've ever taken. It is different than most courses you'll encounter for multiple reasons, which I'll be talking about shortly. I took the course and cleared the exam in September 2020, so this was my most recent AD lab/exam.
 
-**Price:** It ranges from £399-£649 depending on the lab duration. In my opinion, one month is enough but to be safe you can take 2. The content is updated regularly so you may miss new things to try ;)
+**Price:** It ranges from £399-£649 depending on the lab duration. In my opinion, one month is enough but to be safe you can take 2. The content is updated regularly so you may miss new things to try ;) You can also purchase the exam separately for a small fee but I wouldn't really recommend it. 
 
 **Ease of use:** Easy. You get an .ovpn file and you connect to it in the labs & in the exam. 
 
-**Ease of reset:** You can reboot any 1 machine once every hour & you need 6 votes for a revert of the entire lab. In the exam, you are entitled to only 1 reboot in the 48 hours & you don't have any option to revert!
+**Ease of reset:** You can reboot any 1 machine once every hour & you need 6 votes for a revert of the entire lab. In the exam, you are entitled to only 1 reboot in the 48 hours (it is not easy because you need to talk to RastaMouse and ask him to do it manually, which is subject to availability) & you don't have any option to revert!
 
 **Ease of support:** As with RastaLabs, RastaMouse is actually very active and if you need help, he'll guide you without spoiling anything. Other than that, community support is available too through Slack!
 
@@ -301,11 +301,15 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 **Exam:** Yes. 48 hours practical exam without a report. Note that if you fail, you'll have to pay for a retake exam voucher (£99)
 
-**Difficulty:** ?
+**Difficulty:** Intermediate
 
 **Release Date:** January 2020
 
 **Retired:** Nope
+
+Red Team Ops is very unique because it is the 1st course to be built upon Covenant C2. Not only that, RastaMouse also added Cobal Strike too in the course! Even better, the course gets updated AND you get a LIFE TIME ACCESS to the update! Who does that?! Awesome! Anyway, another difference that I thought was interesting is that the lab is created in a way that you will probably have to follow the course in order to complete it or you'll miss on a few thing here and there. The course is amazing as it shows you most of the Red Teaming Lifecycle. The most interesting part is that it summarize things for you in a way that you won't see in other courses. Why talk about something in 10 pages when you can explain it in 1 right? The course talks about most of AD abuses in a very nice way. There is no CTF envolved in the labs or the exam. The lab has 3 domains across forests with multiple machines. It is very well done in a way that sometime you can't even access some machines even with the domain admin because you are supposed to do it the intended way! The course talks about delegation types, kerberos abuse, MSSQL abuse, LAPS abuse, AppLocker, CLM bypass, privile escalation, AV Bypass, etc. A LOT OF THINGS! Most interesting attacks have a flag that you need to obtain and you'll get a badge after completing every assignment.
+
+The exam was easy to pass in my opnion. I can't talk much about the details of the exam obviously but in short you need to get 3 out of 4 flags without writing any writeup. Without being able to reset the exam, things can be very hard and frustrating. In fact, if you had to reset the exam without getting the passing score, you pretty much failed. You can reboot a machine but it has to be done manually (I.e. you need to contact RastaMouse and asks him to reset it). This is obviously subject to availability and he is not usually available in the weekend so if your exam is on the weekend you can pray that nothings gets screwed up during your exam. I had an issue in the exam that needed a reset. It happened out of the blue. Basically what was working a few hours earlier wasn't working anymore. I contacted RastaMouse and issued a reboot. That didn't help either. However, since I got the passing score already, I just submitted the exam anyway. 
 
 
 
