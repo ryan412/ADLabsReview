@@ -8,6 +8,7 @@ I graduated from an elite university (Johns Hopkins University) with a master’
 * OSCE
 * OSCP
 * CRTE
+* CRTO
 * GPEN
 * eCPTX
 * GWAPT
