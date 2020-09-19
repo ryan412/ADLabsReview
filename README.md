@@ -44,6 +44,9 @@ Some of the courses/labs/exams that are related to Active Directory that I've do
 **Pentester Academy's Windows Red Team Lab**
 * Certified Red Team Expert (CRTE)
 
+**Zero-Point Security Lab**
+* Certified Red Team Operator (CRTO)
+
 There are of course more AD environments that I've dealt with such as the private ones that I face in "real life" as a cybersecurity consultant as well as the small AD environments I face in some of Hack The Box's machines. (I will obviously not cover those because it will take forever). Also, note that this is by no means a comprehensive list of all AD labs/courses as there are much more red teaming/active directory labs/courses/exams out there. There are 2 in Hack The Box that I haven't tried yet (one Endgame & one Pro Lab), CRTP from Pentester Academy (beginner friendly), PACES from Pentester Academy, Red Team Ops from Zero Point Security, and a couple of Specter Ops courses that I've heard really good things about but still don't have time to try them. Once I do any of the labs I just mentioned, I'll keep updating this article so feel free to check it once in a while!
 
 I'll be talking about most if not all of the labs without spoiling much and with some recommendations too! All of the labs contain a lot of knowledge and most of the things that you'll find in them can be seen in real life. In fact, I've seen a lot of them in real life! I will also compare prices, course content, ease of use, ease of reset/reset frequency, ease of support, & certain requirements before starting the labs, if any.
