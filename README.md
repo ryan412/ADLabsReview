@@ -287,7 +287,7 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 # Red Team Ops & Certified Red Team Operator:
 
-After CRTE, I've decided to try CRTO since this is one gets sold our VERY quickly, I had to try it out to understad why. To sum up, this is one of the best AD courses I've ever taken. It is different than most courses you'll encounter for multiple reasons, which I'll be talking about shortly. I took the course and cleared the exam in September 2020, so this was my most recent AD lab/exam.
+After CRTE, I've decided to try CRTO since this is one gets sold out VERY quickly, I had to try it out to understad why. To sum up, this is one of the best AD courses I've ever taken. It is different than most courses you'll encounter for multiple reasons, which I'll be talking about shortly. I took the course and cleared the exam in September 2020, so this was my most recent AD lab/exam.
 
 **Price:** It ranges from £399-£649 depending on the lab duration. In my opinion, one month is enough but to be safe you can take 2. The content is updated regularly so you may miss new things to try ;) You can also purchase the exam separately for a small fee but I wouldn't really recommend it. 
 
