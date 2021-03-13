@@ -47,6 +47,9 @@ Some of the courses/labs/exams that are related to Active Directory that I've do
 **Zero-Point Security's Red Team Operator**
 * Certified Red Team Operator (CRTO)
 
+**Evasion Techniques and Breaching Defenses (PEN-300)**
+* Offensive Security Experienced Penetration Tester
+
 There are of course more AD environments that I've dealt with such as the private ones that I face in "real life" as a cybersecurity consultant as well as the small AD environments I face in some of Hack The Box's machines. (I will obviously not cover those because it will take forever). Also, note that this is by no means a comprehensive list of all AD labs/courses as there are much more red teaming/active directory labs/courses/exams out there. There are 2 in Hack The Box that I haven't tried yet (one Endgame & one Pro Lab), CRTP from Pentester Academy (beginner friendly), PACES from Pentester Academy, and a couple of Specter Ops courses that I've heard really good things about but still don't have time to try them. Once I do any of the labs I just mentioned, I'll keep updating this article so feel free to check it once in a while!
 
 I'll be talking about most if not all of the labs without spoiling much and with some recommendations too! All of the labs contain a lot of knowledge and most of the things that you'll find in them can be seen in real life. In fact, I've seen a lot of them in real life! I will also compare prices, course content, ease of use, ease of reset/reset frequency, ease of support, & certain requirements before starting the labs, if any.
@@ -315,6 +318,9 @@ Red Team Ops is very unique because it is the 1st course to be built upon Covena
 
 The exam was easy to pass in my opinion. The exam is 48 hours long, which is too much honestly. I think 24 hours is more than enough. I can't talk much about the details of the exam obviously but in short you need to get 3 out of 4 flags without writing any writeup. As I said earlier, you can't reset the exam environment. Without being able to reset the exam, things can be very hard and frustrating. In fact, if you had to reset the exam without getting the passing score, you pretty much failed. You can reboot one machine ONLY one time in the 48 hours exam but it has to be done manually (I.e. you need to contact RastaMouse and asks him to reset it). This is obviously subject to availability and he is not usually available in the weekend so if your exam is on the weekend you can pray that nothings gets screwed up during your exam. I had an issue in the exam that needed a reset. It happened out of the blue. Basically what was working a few hours earlier wasn't working anymore. I contacted RastaMouse and issued a reboot. That didn't help either. However, since I got the passing score already, I just submitted the exam anyway. 
 
+
+# Evasion Techniques and Breaching Defenses (PEN-300) & Offensive Security Experienced Penetration Tester
+**SOON. Stay Tuned!
 
 
 As a final note, I'm actually planning to take more AD/Red Teaming labs in the future, so I'll keep updating this page once I finish a certain lab/exam/course.
