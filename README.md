@@ -291,7 +291,7 @@ If you are planning to do something more beginner friendly from Pentester Academ
 
 # Red Team Ops & Certified Red Team Operator:
 
-After CRTE, I've decided to try CRTO since this is one gets sold out VERY quickly, I had to try it out to understad why. To sum up, this is one of the best AD courses I've ever taken. It is different than most courses you'll encounter for multiple reasons, which I'll be talking about shortly. I took the course and cleared the exam in September 2020, so this was my most recent AD lab/exam.
+After CRTE, I've decided to try CRTO since this is one gets sold out VERY quickly, I had to try it out to understad why. To sum up, this is one of the best AD courses I've ever taken. It is different than most courses you'll encounter for multiple reasons, which I'll be talking about shortly. I took the course and cleared the exam in September 2020.
 
 **Price:** It ranges from £399-£649 depending on the lab duration. In my opinion, one month is enough but to be safe you can take 2. The content is updated regularly so you may miss new things to try ;) You can also purchase the exam separately for a small fee but I wouldn't really recommend it. 
 
@@ -321,7 +321,34 @@ The exam was easy to pass in my opinion. The exam is 48 hours long, which is too
 
 
 # Evasion Techniques and Breaching Defenses (PEN-300) & Offensive Security Experienced Penetration Tester
-**SOON. Stay Tuned!
+After CRTO, I've decided to try the exam of the new Offensive Security course, OSEP. To sum up, this is one of the best courses I've taken so far due to the amount of knowledge it contains. I took the course in February, 2021 and cleared the exam in March 2021, so this was my most recent AD lab/exam.
+
+**Price:** It ranges from $1299-$1499 depending on the lab duration. In my opinion, 2 months are more than enough. However, make sure to choose wisely because if you took 2 months and ended up needing an extension, you'll pay extra! 
+
+**Ease of use:** Easy. You get an .ovpn file and you connect to it in the labs & in the exam. 
+
+**Ease of reset:** You can revert any lab module, challenge, or exam at any time since the environment is created only for you. In the exam, you are entitled to a significant amount of reverts, in case you need it. I don't know if I'm allowed to say how many but it is definitely more than you need!
+
+**Ease of support:** There is community support in the forum, community chat, and I think Discord as well.
+
+**Course:** PDF & Videos.
+
+**Goal:** finish the course & take the exam to become OSEP
+
+**Certificate:** You get a physical certificate & YourAcclaim badge once you pass the exam
+
+**Exam:** Yes. 48 hours practical exam followed by a 24 hours for a report. Note that if you fail, you'll have to pay for a retake exam voucher ($200)
+
+**Difficulty:** Intermediate (This can be subjective since I've taken a number of AD courses/labs already)
+
+**Release Date:** October 2020
+
+**Retired:** Nope
+
+PEN-300 is very unique because it is very focused on evasion techniques and showing you the "how" and "why" of a lof of things under the hood. I don't want to rewrite what is in the syllabus but the course is really great in my opinion, especially in the evasion part. The course not only talks about evasion binaries, it also deals with scripts and client side evasions. What is even more interesting is having a mixture of both. Moreover, the course talks about "most" of AD abuses in a very nice way. The course talks about evasion techniques, delegation types, kerberos abuse, MSSQL abuse, LAPS abuse, AppLocker, CLM bypass, privile escalation, AV Bypass, etc. A LOT OF THINGS! They are missing some topics that would have been nice to have in the course to be honest. However, the fact that the PDF is more than 700 pages long, I can probably turn a blind eye on this. There is no CTF envolved in the labs or the exam. The lab consists of a set of exercise of each module as well as an extra mile (if you want to go above and beyond) and 6 challenges. You get access to a dev machine where you can test your payloads at before trying it on the lab, which is nice! The challenges start easy (1-3) and progress to more challenging ones (4-6). The first 3 challenges are meant to teach you some topics that they want you to learn, and the later ones are meant to be more challenging since they are a mixture of all what you have learned in the course so far. Each challenge may have one or more flags, which is meant to be as a checkpoint for you. As usual with Offsec, there are some rabbit holes here and there, and there is more than one way to solve the labs. What I didn't like about the labs is that sometimes they don't seem to be stable. I.e. certain things that should be working, don't. Fortunetly, I didn't have any issues in the exam.
+
+The exam was easy to pass in my opinion since you can pass by getting the objective without completing the entire exam. The exam is 48 hours long, which is too much honestly. I think 24 hours is more than enough, which will mame it more challenging. I can't talk much about the details of the exam obviously but in short you need to either get an objective OR get a certain number of points, then do a report on it. As with the labs, there are multiple ways to reach the objective, which is interesting and I would recommend doing both if you had the time. As far as the report goes, as usual, Offsec has a nice template that you can use for the exam, and I would recommend sticking with it. My report was about 80 pages long, which was intense to write. It took me hours. My recommendation is to start writing the report WHILE having the exam VPN still active. Otherwise, you may realize later than you have missed a couple of things here and there and you won't be able to go back and take screenshot of them, which may result in a faliure grade.
+
 
 
 As a final note, I'm actually planning to take more AD/Red Teaming labs in the future, so I'll keep updating this page once I finish a certain lab/exam/course.
